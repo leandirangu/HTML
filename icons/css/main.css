@@ -1,0 +1,98 @@
+body{
+	/*background-color: #222;*/
+	background-image: url(../img/back2.jpg);
+	background-image: no-repeat;
+
+}
+
+@media screen and (max-width: 900px){
+	body{
+		background-color: orange;
+	}
+}
+header{
+	/*width: 100px;*/
+	height: 50px;
+	left: 0px;	
+	right: 0px;
+	background-color: maroon;
+	color: blue;
+	text-align: center;
+	font-size: 3em;
+	margin: 0 auto;
+	position: fixed;
+	top: 0px;
+
+
+	
+
+
+
+}
+.container{
+	/*background-color: pink;*/
+	background-color: rgba(0,0,0,0.5);
+	width: 1000px;
+	height: 1200px;
+	text-align: center;
+	margin:120px auto;
+	margin-top: 30px;
+
+
+
+}
+
+
+
+.fa-car{
+	margin: 0 auto;
+	color: gold;
+	height: 300px;
+	width: 400px;
+	padding: 10px;
+	background-color: blue;
+	margin-top: 30px;
+}
+.fa-youtube{
+	margin: 0 auto;
+	color: red;
+	height: 300px;
+	width: 400px;
+	padding: 10px;
+	background-color: pink;
+	margin-right: 30px;
+	float: right;
+	margin-top: 30px;
+}
+	
+
+.fa-spinner{
+	color: blue;
+	height: 300px;
+	width: 900px;
+	padding: 10px;
+	line-height: 150px;
+	background-color: white;
+	margin-top: 30px;
+	
+
+	
+}	
+.fa-circle-o-notch{
+	color: white;
+	height: 300px;
+	width: 400px;
+	padding: 10px;
+	background-color: purple;
+	float: right;
+	margin-right: 30px;
+	margin-top: 30px;
+	}
+.fa-yelp{
+	color: indigo;
+	height: 300px;
+	width: 400px;
+	padding: 10px;
+	background-color: green;
+	margin-top: 30px;
+}

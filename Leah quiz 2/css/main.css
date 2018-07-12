@@ -1,0 +1,42 @@
+body{
+
+	background-color: pink;
+	width:400 px;
+	margin:0 auto;
+	width: 1200px;
+
+}
+h1{
+	
+	text-align: center;
+	color:red;
+	
+	}
+h2{
+	color:blue;
+}
+h3{
+	color:green;
+}
+
+
+
+.contentone{
+
+	padding:20px;
+	margin: 0 auto;
+	boder_style: solid;
+	background-color:white 
+
+}
+
+
+.contenttwo{
+	margin: 0 auto;
+	text-align: center;
+	background-color: white
+.contentthree{
+	padding: 20 px;
+	text-align: center;
+	background-color: grey;
+}

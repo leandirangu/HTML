@@ -1,0 +1,29 @@
+body{
+	background-image: url(../images/skydive2.png), url(../images/farming.jpg);
+	background-attachment: fixed;
+	background-size:30%, cover;
+	background-repeat: no-repeat;
+	background-position:top right,  center;
+	text-align: center;
+	
+}
+h1{
+
+	text-align: center;
+	color: red;
+}
+
+}
+div{
+	text-align: center;
+}
+.content{
+	align:center;
+	width:500px;
+	min-height:500px;
+	padding:30px;
+	margin:0px auto;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+
+}

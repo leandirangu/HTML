@@ -1,0 +1,177 @@
+body{
+	background-color: #d1d1d1;
+	width: 950px;
+	text-align: center;
+
+}
+
+header{
+	background-color: #2f4351;;
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+	color: white;
+}
+
+h1{
+	color: #fff;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;	
+}
+
+h2{
+	background-color: #3b5367;
+	color: yellow;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	letter-spacing: 5px;	
+}
+
+h3{
+	color: yellow;
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+h4{
+	background-color: #f7ce06;
+	color: #2f4351;
+	padding:30px;
+	text-align: left; 
+}
+h5{
+	background-color:#f7ce06;
+	color: #2f4351;
+	padding: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px auto;
+}
+.cont{
+	text-align: center;
+	padding: 30px;
+	min-height: 500px;
+	margin: 0px auto;
+	width: 900px;
+}
+.top{
+	color: #3b5367;
+	padding: 40px;
+	margin: 0 auto;
+	background-color: #3b5367;
+}
+.one{
+	background-color: #fff;
+	min-height: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+}
+.cat{
+	float: left;
+}
+.cont2{
+	background-color: #fff;
+	width: 400px;
+	height: 500px;
+	float: left;
+}
+
+
+ul{
+	text-align: left;
+}
+.cont3{
+	background-color: #fff;
+	height: 494px;
+	float:right;
+	margin: 0 auto;
+	padding-bottom: 2px;
+	width: 450px;
+    border: 1px solid white;
+    margin-bottom: 12px;
+    margin-top: 0px;
+
+}
+
+h6{
+	background-color: #f7ce06;
+	color: #2f4351;
+	padding: 30px;
+	margin-top: 0px;
+	margin: 0px auto;
+	margin-bottom: 0px;
+
+}
+			 
+
+
+
+
+.tabletop .cont5{
+	background-color: #f7ce06;
+	
+
+
+}
+
+table{
+	/*margin-top: 0px;*/
+	text-align: left;
+	background-color: #ffffff;
+	border-right: 2px solid #e8e8e8 ;
+	width:900px;
+	padding-top: 3px;
+	border-collapse: collapse;
+	margin-top: 0px;
+}
+
+
+footer{
+	text-align: left;
+	background-color: #2f4351;
+	width:0 auto;
+	margin: 0 auto;
+	
+	
+
+}
+
+.cont table tr td {
+	font-size: 14px;
+	padding: 10px;
+	border-right: 3px solid #666;
+}
+.cont table tr th {
+	font-weight: bold;
+	padding:10px;
+	text-align: left;
+	font-size: 16px;
+	color:#2f4351;
+	background-color: #f7ce06; ;
+	border-right:  #e8e8e8;
+	margin-top: 0 auto;
+}
+.cont table tr th:last-child{
+	border-right: none;
+}
+
+.cont table tr td:last-child{
+	border-right: none;
+}
+
+.last{
+	max-width: 100%;
+}
+
+.cont table tr{
+	border-bottom: 1px solid #666;
+}
+.cont table tr:last-child{
+	border-bottom: none;
+}
+
+
+
+
+
